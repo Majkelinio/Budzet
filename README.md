@@ -1,2 +1,1 @@
-# Budzet
-Budget Manager - C++ Project
+#Budget Manager - C++ Project

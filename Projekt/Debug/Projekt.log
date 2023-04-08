@@ -1,0 +1,25 @@
+﻿  funkcje.cpp
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(94,36): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(126,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(129,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(137,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(157,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(169,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(213,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(265,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(303,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(306,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(318,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(321,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(416,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(423,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(528,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(535,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(551,28): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(572,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(582,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(614,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(625,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(634,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\Projekt\Projekt\funkcje.cpp(644,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Projekt.vcxproj -> C:\Users\micha\OneDrive\Pulpit\Projekt\Debug\Projekt.exe
